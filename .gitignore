@@ -3,3 +3,6 @@
 *.swp
 *.bak
 build/
+/SampleImages
+/SampleImages2
+.DS_Store
